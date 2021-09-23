@@ -4,7 +4,6 @@
 </h2>
 
 <h2>
-    <img src="./images/background.png">
     <center>
         <table>
             <tr>
