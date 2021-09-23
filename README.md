@@ -100,13 +100,15 @@ Currently I have been working as a Data Scientist at Grupo Globo, analyzing spor
 
 <br>
 <h2>Some technologies that I have been working 🖥️</h2>
-<p align="center">.
+<p align="center">
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd543"/>
 <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img alt="Matlab" src="https://img.shields.io/badge/MATLAB-orange.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img alt="Ocatave" src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"/>
-- 📫 How to reach me ...
+<br>
+    - 📫 How to reach me ...
 
 <!---
 brunobedo/brunobedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
