@@ -130,5 +130,7 @@ Currently I have been working as a Data Scientist at Grupo Globo, analyzing spor
 <br>
 
 <h2>More about me 🤓</h2>
-<p><img alt="CS:GO" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /> I'm CS-GO Lover AC/DC fan</p>
+<p><img alt="CS:GO" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /> I'm a CS:GO fan (not a good player)</p>
+💻🔎Biomechanist, PhD 
+🚴🏽‍♂️⚽️Sports enthusiast 
 <br><br>
