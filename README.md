@@ -135,6 +135,8 @@ Currently I have been working as a Data Scientist at Grupo Globo, analyzing spor
     <img alt="Lattes" src="https://img.shields.io/badge/Lattes-0000FF?style=for-the-badge&logo=Lattes&logoColor=white"/>
 </a>       
 <br>
+
+<h2>Dynamic info! 💬</h2>
 <h2>
     <center>
         <table>
@@ -151,4 +153,4 @@ Currently I have been working as a Data Scientist at Grupo Globo, analyzing spor
 <p><img alt="CS:GO" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /> I'm a CS:GO fan (not a good player)</p>
 <p>🚴🏽‍♂️⚽️Sports enthusiast</p>
 <br>
-<h2>Dynamic info! 💬</h2>
+
