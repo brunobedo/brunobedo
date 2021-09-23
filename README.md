@@ -1,11 +1,11 @@
 <h2>
-    Hey,what's up!?  
+    Hey, what's up!?  
     <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h2>
 
 
-👋 Hi, what's up!? 
-I'm <b>Bruno Bedo</b> (@brunobedo).
+I'm <b>Bruno Bedo</b> (@brunobedo).👋 <br>
+
 I have B.Sc. in Physical Education and Sport at the School of Physical Education and Sport of Ribeirão Preto, University of São Paulo, M.Sc (2016, Brazil) and Ph.D. (2021, Brazil).
 During the PhD degree, I had worked as a researcher at Human Movement Biomechanics Laboratory at the University of Ottawa (2019, Canada). 
 I has developed research on sports biomechanics, human movement, motor control and data science applied to sports.
