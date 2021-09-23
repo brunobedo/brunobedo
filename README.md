@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h2>
 
-I'm <b>Bruno Bedo</b> (@brunobedo).👋 <br>
+I'm <b>Bruno Bedo</b> (@brunobedo).👋
 
 I have B.Sc. in Physical Education and Sport at the School of Physical Education and Sport of Ribeirão Preto, University of São Paulo, M.Sc (2016, Brazil) and Ph.D. (2021, Brazil).
 During the PhD degree, I had worked as a researcher at Human Movement Biomechanics Laboratory at the University of Ottawa (2019, Canada). 
@@ -100,24 +100,20 @@ Currently I have been working as a Data Scientist at Grupo Globo, analyzing spor
 <br>
 <h2>Some technologies that I have been working 🖥️</h2>
 <p align="center">
-<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd543"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-<img alt="Matlab" src="https://img.shields.io/badge/MATLAB-orange.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
-<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img alt="Ocatave" src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"/>
-<img src="https://img.shields.io/badge/json-ambar.svg?&style=flat-square&logo=json&logoColor=white"/>
-<img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-stackoverflow-grey?style=flat-square&logo=stackoverflow">
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd543"/>
+    <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+    <img alt="Matlab" src="https://img.shields.io/badge/MATLAB-orange.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+    <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img alt="Ocatave" src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"/>
+    <img src="https://img.shields.io/badge/json-ambar.svg?&style=flat-square&logo=json&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-stackoverflow-grey?style=flat-square&logo=stackoverflow">
 <br>
 </p>
 
-<br>
 <h2>Contact me! 💬</h2>
 <a href="https://www.linkedin.com/in/bruno-bedo-6bb463181/?originalSubdomain=br"  >
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -134,21 +130,19 @@ Currently I have been working as a Data Scientist at Grupo Globo, analyzing spor
 <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4361392P5"  >
     <img alt="Lattes" src="https://img.shields.io/badge/Lattes-0000FF?style=for-the-badge&logo=Lattes&logoColor=white"/>
 </a>       
-<br>
 
 <h2>Dynamic info! 💬</h2>
 <h2>
     <center>
         <table>
             <tr>
-                <td>
-                    <img src="https://github-readme-stats.vercel.app/api?username=brunobedo&theme=buefy"/>
-                </td>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=brunobedo&show_icons=true&theme=dark"/>
+            </td>
             </tr>   
         </table>
     </center>
 </h2>
-<br>
 <h2>More about me 🤓</h2>
 <p><img alt="CS:GO" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /> I'm a CS:GO fan (not a good player)</p>
 <p>🚴🏽‍♂️⚽️Sports enthusiast</p>
