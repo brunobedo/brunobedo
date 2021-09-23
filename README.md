@@ -3,6 +3,21 @@
     <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h2>
 
+<h2>
+    <img src="./images/background.png">
+    <center>
+        <table>
+            <tr>
+                <td>
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobedo&hide=html&layout=compact&theme=buefy" />      
+                </td>
+                <td>
+                    <img src="https://github-readme-stats.vercel.app/api?username=brunobedo&theme=buefy"/>
+                </td>
+            </tr>   
+        </table>
+    </center>
+</h2>
 
 I'm <b>Bruno Bedo</b> (@brunobedo).👋 <br>
 
@@ -131,6 +146,6 @@ Currently I have been working as a Data Scientist at Grupo Globo, analyzing spor
 
 <h2>More about me 🤓</h2>
 <p><img alt="CS:GO" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /> I'm a CS:GO fan (not a good player)</p>
-<p>💻🔎Biomechanist, PhD </p>
 <p>🚴🏽‍♂️⚽️Sports enthusiast</p>
-<br><br>
+<br>
+<h2>Dynamic info! 💬</h2>
