@@ -105,7 +105,7 @@ Currently I have been working as a Data Scientist at Grupo Globo, analyzing spor
 <img alt="Matlab" src="https://img.shields.io/badge/MATLAB-orange.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img alt="Ocatave" src="https://img.shields.io/badge/Ocatave.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+<img alt="Ocatave" src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"/>
 - 📫 How to reach me ...
 
 <!---
