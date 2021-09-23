@@ -4,12 +4,9 @@
 </h2>
 
 I'm <b>Bruno Bedo</b> (@brunobedo).👋
-
-I have B.Sc. in Physical Education and Sport at the School of Physical Education and Sport of Ribeirão Preto, University of São Paulo, M.Sc (2016, Brazil) and Ph.D. (2021, Brazil).
-During the PhD degree, I had worked as a researcher at Human Movement Biomechanics Laboratory at the University of Ottawa (2019, Canada). 
-I has developed research on sports biomechanics, human movement, motor control and data science applied to sports.
-Also, I have knowledge in programming languages focused on data acquisition, analysis and interpretation of sports data. 
-Currently I have been working as a Data Scientist at Grupo Globo, analyzing sports data, mainly related to the game fantasy Cartola FC
+I have B.Sc. in Physical Education and Sport at the School of Physical Education and Sport of Ribeirão Preto, University of São Paulo, M.Sc (2016, Brazil) and Ph.D. (2021, Brazil). During the PhD degree, I worked as a researcher at Human Movement Biomechanics Laboratory at the University of Ottawa (2019, Canada). 
+My research was focused on sports biomechanics, human movement, motor control and data science applied to sports. 
+Also, I have knowledge in programming languages oriented to data acquisition, analysis and interpretation of sports data. Currently I am working as a Data Scientist at Grupo Globo, analyzing sports data, mainly related to the game fantasy Cartola FC.
 
 <br>
 
