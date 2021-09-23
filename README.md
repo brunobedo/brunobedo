@@ -96,7 +96,6 @@ Currently I have been working as a Data Scientist at Grupo Globo, analyzing spor
        Influence of side uncertainty on knee kinematics during sidestep cutting maneuvers of female handball athletes.
     </a>
     </li>
-    <li>   
 </ul>
 
 
