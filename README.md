@@ -125,7 +125,7 @@ Currently I have been working as a Data Scientist at Grupo Globo, analyzing spor
     <img alt="Researchgate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>
 </a>
 <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4361392P5"  >
-    <img alt="Lattes" src="https://img.shields.io/badge/CV-Lattes-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img alt="Lattes" src="https://img.shields.io/badge/Lattes-0000FF?style=for-the-badge&logo=Lattes&logoColor=white"/>
 </a>       
 <br>
 
