@@ -108,7 +108,26 @@ Currently I have been working as a Data Scientist at Grupo Globo, analyzing spor
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img alt="Ocatave" src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"/>
 <br>
-    - 📫 How to reach me ...
+</p>
+
+<br>
+<h2>Contact me! 💬</h2>
+<a href="https://www.linkedin.com/in/bruno-bedo-6bb463181/?originalSubdomain=br"  >
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:brunosebdo@gmail.com"  >
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://twitter.com/brunobedo"  >
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://www.researchgate.net/profile/Bruno-Bedo"  >
+    <img alt="Researchgate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>
+</a>
+<a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4361392P5"  >
+    <img alt="Lattes" src="https://img.shields.io/badge/CV-Lattes-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>       
+<br>
 
 <!---
 brunobedo/brunobedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
