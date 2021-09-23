@@ -3,21 +3,6 @@
     <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h2>
 
-<h2>
-    <center>
-        <table>
-            <tr>
-                <td>
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobedo&hide=html&layout=compact&theme=buefy" />      
-                </td>
-                <td>
-                    <img src="https://github-readme-stats.vercel.app/api?username=brunobedo&theme=buefy"/>
-                </td>
-            </tr>   
-        </table>
-    </center>
-</h2>
-
 I'm <b>Bruno Bedo</b> (@brunobedo).👋 <br>
 
 I have B.Sc. in Physical Education and Sport at the School of Physical Education and Sport of Ribeirão Preto, University of São Paulo, M.Sc (2016, Brazil) and Ph.D. (2021, Brazil).
@@ -121,6 +106,14 @@ Currently I have been working as a Data Scientist at Grupo Globo, analyzing spor
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img alt="Ocatave" src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"/>
+<img src="https://img.shields.io/badge/json-ambar.svg?&style=flat-square&logo=json&logoColor=white"/>
+<img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-stackoverflow-grey?style=flat-square&logo=stackoverflow">
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
 <br>
 </p>
 
@@ -142,7 +135,18 @@ Currently I have been working as a Data Scientist at Grupo Globo, analyzing spor
     <img alt="Lattes" src="https://img.shields.io/badge/Lattes-0000FF?style=for-the-badge&logo=Lattes&logoColor=white"/>
 </a>       
 <br>
-
+<h2>
+    <center>
+        <table>
+            <tr>
+                <td>
+                    <img src="https://github-readme-stats.vercel.app/api?username=brunobedo&theme=buefy"/>
+                </td>
+            </tr>   
+        </table>
+    </center>
+</h2>
+<br>
 <h2>More about me 🤓</h2>
 <p><img alt="CS:GO" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /> I'm a CS:GO fan (not a good player)</p>
 <p>🚴🏽‍♂️⚽️Sports enthusiast</p>
