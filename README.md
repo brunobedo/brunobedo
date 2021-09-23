@@ -33,78 +33,67 @@ Currently I have been working as a Data Scientist at Grupo Globo, analyzing spor
     </li>
     <li>   
      <a href="https://www.sciencedirect.com/science/article/pii/S0268003321001170?via%3Dihub" >
-       Pre- and postoperative in silico biomechanics in individuals with cam morphology during stair tasks. CLINICAL BIOMECHANICS
+       Pre- and postoperative in silico biomechanics in individuals with cam morphology during stair tasks.
     </a>
     </li>
     <li>   
      <a href="https://www.sciencedirect.com/science/article/pii/S0966636220300436?via%3Dihub" >
-      The rapid recovery of vertical force propulsion production and postural sway after a specific fatigue protocol in female handball athletes. GAIT & POSTURE
+      The rapid recovery of vertical force propulsion production and postural sway after a specific fatigue protocol in female handball athletes.
     </a>
     </li>
-    <li>   
-
+    <li>
      <a href="https://www.tandfonline.com/doi/full/10.1080/24733938.2020.1780468" >
-      Technical skill not athleticism predicts an individual?s ability to maintain possession in small-sided soccer games
+      Technical skill not athleticism predicts an individual?s ability to maintain possession in small-sided soccer games.
     </a>
     </li>
     <li>   
-
      <a href="https://www.tandfonline.com/doi/full/10.1080/24733938.2020.1780468" >
-      Effects of match-related contextual factors on weekly load responses in professional Brazilian soccer players
+      Effects of match-related contextual factors on weekly load responses in professional Brazilian soccer players.
     </a>
     </li>
     <li>   
-
      <a href="https://www.tandfonline.com/doi/full/10.1080/10255842.2020.1757662" >
-      A custom musculoskeletal model for estimation of medial and lateral tibiofemoral contact forces during tasks with high knee and hip flexions
+      A custom musculoskeletal model for estimation of medial and lateral tibiofemoral contact forces during tasks with high knee and hip flexions.
     </a>
     </li>
     <li>   
-
      <a href="https://www.tandfonline.com/doi/full/10.1080/24733938.2020.1807043" >
-      Organisation of instep kicking in young U11 to U20 soccer players. Science and Medicine in Football
+      Organisation of instep kicking in young U11 to U20 soccer players. Science and Medicine in Football.
     </a>
     </li>
     <li>   
-
      <a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.00346/full" >
-      Additional Haptic Information Provided by Anchors Reduces Postural Sway in Young Adults Less Than Does Light Touch
+      Additional Haptic Information Provided by Anchors Reduces Postural Sway in Young Adults Less Than Does Light Touch.
     </a>
     </li>
     <li>   
-
      <a href="https://www.scielo.br/j/motriz/a/5NZfmBGNnRMCDRhv4Kgn4HQ/?lang=en" >
-      Effects of match situational variables on possession: The case of England Premier League season 2015/16
+      Effects of match situational variables on possession: The case of England Premier League season 2015/16.
     </a>
     </li>
     <li>   
-
      <a href="https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0576" >
-      Lactacidemic variation and movement patterns during anaerobic power test
+      Lactacidemic variation and movement patterns during anaerobic power test.
     </a>
     </li>
     <li>   
-
      <a href="https://journals.lww.com/nsca-jscr/Abstract/2019/08000/Team_Dynamics,_Running,_and_Skill_Related.19.aspx" >
-      Team Dynamics, Running, and Skill-Related Performances of Brazilian U11 to Professional Soccer Players During Official Matches
+      Team Dynamics, Running, and Skill-Related Performances of Brazilian U11 to Professional Soccer Players During Official Matches.
     </a>
     </li>
     <li>   
-
      <a href="https://www.tandfonline.com/doi/full/10.1080/02640414.2019.1608895" >
-      Validity and reliability of a 6-a-side small-sided game as an indicator of match-related physical performance in elite youth Brazilian soccer player
+      Validity and reliability of a 6-a-side small-sided game as an indicator of match-related physical performance in elite youth Brazilian soccer player.
     </a>
     </li>
     <li>   
-
      <a href="https://journals.sagepub.com/doi/10.1177/0031512520926369" >
-      Mind-Muscle Connection: Limited Effect of Verbal Instructions on Muscle Activity in a Seated Row Exercise
+      Mind-Muscle Connection: Limited Effect of Verbal Instructions on Muscle Activity in a Seated Row Exercise.
     </a>
     </li>
     <li>   
-
      <a href="https://journals.humankinetics.com/view/journals/jab/37/3/article-p188.xml#:~:text=In%20summary%2C%20side%20uncertainty%20impacted,with%20a%20slower%20approach%20velocity." >
-       Influence of side uncertainty on knee kinematics during sidestep cutting maneuvers of female handball athletes
+       Influence of side uncertainty on knee kinematics during sidestep cutting maneuvers of female handball athletes.
     </a>
     </li>
     <li>   
