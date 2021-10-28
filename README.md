@@ -13,6 +13,11 @@ Also, I have knowledge in programming languages oriented to data acquisition, an
 <h2>Some academic articles that I have published (not all) 🏆</h2>
 <ul>
     <li>
+     <a href="https://www.sciencedirect.com/science/article/pii/S0765159721001477?dgcid=coauthor" >
+      Knee joint kinematics during the sidestep maneuver in professional futsal athletes: Effect of sport-specific sidestep cutting
+    </a>
+    </li>
+    <li>
     <a href="https://www.termedia.pl/Landing-mechanics-of-basketball-and-volleyball-athletes-a-kinematic-approach,129,43427,0,1.html" >
       Landing mechanics of basketball and volleyball athletes: a kinematic approach
     </a>
