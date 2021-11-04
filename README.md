@@ -7,8 +7,8 @@ I'm <b>Bruno Bedo</b> (@brunobedo).👋
 I have B.Sc. in Physical Education and Sport at the School of Physical Education and Sport of Ribeirão Preto, University of São Paulo, M.Sc (2016, Brazil) and Ph.D. (2021, Brazil). During the PhD degree, I worked as a researcher at Human Movement Biomechanics Laboratory at the University of Ottawa (2019, Canada). 
 My research was focused on sports biomechanics, human movement, motor control and data science applied to sports. 
 Also, I have knowledge in programming languages oriented to data acquisition, analysis and interpretation of sports data. Currently I am working as a Data Scientist at Grupo Globo, analyzing sports data, mainly related to the game fantasy Cartola FC.
-
 <br>
+
 
 <h2>Some academic articles that I have published (not all) 🏆</h2>
 <ul>
@@ -117,21 +117,21 @@ Also, I have knowledge in programming languages oriented to data acquisition, an
 </p>
 
 <h2>Contact me! 💬</h2>
-<a href="https://www.linkedin.com/in/bruno-bedo-6bb463181/?originalSubdomain=br"  >
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 <a href="mailto:brunosebdo@gmail.com"  >
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://twitter.com/brunobedo"  >
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 <a href="https://www.researchgate.net/profile/Bruno-Bedo"  >
     <img alt="Researchgate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>
 </a>
 <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4361392P5"  >
     <img alt="Lattes" src="https://img.shields.io/badge/Lattes-0000FF?style=for-the-badge&logo=Lattes&logoColor=white"/>
-</a>       
+</a> 
+<br>
+<h2>I am also on: 🔗 </h2>
+<p align="left">
+<a href="https://twitter.com/brunobedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brunobedo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bruno-bedo-6bb463181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a>
+<a href="https://instagram.com/brunobedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rami.krispin" height="30" width="40" /></a>
 
 <h2>Dynamic info! 💬</h2>
 <h2>
