@@ -131,7 +131,7 @@ Also, I have knowledge in programming languages oriented to data acquisition, an
 <p align="left">
 <a href="https://twitter.com/brunobedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brunobedo" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bruno-bedo-6bb463181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a>
-<a href="https://instagram.com/brunobedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rami.krispin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/brunobedo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rami.krispin" height="30" width="40" /></a>
 
 <h2>Dynamic info! 💬</h2>
 <h2>
