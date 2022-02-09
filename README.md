@@ -13,6 +13,16 @@ Also, I have knowledge in programming languages oriented to data acquisition, an
 <h2>Some academic articles that I have published (not all) 🏆</h2>
 <ul>
     <li>
+     <a href="https://www.nature.com/articles/s41598-022-05792-w" >
+      Effects of congested fixture and matches? participation on internal and external workload indices in professional soccer players.
+    </a>
+    </li>
+    <li>
+     <a href="https://www.researchgate.net/profile/Rafael-Fujita/publication/356187127_The_pre-exhaustion_method_does_not_increase_muscle_activity_in_target_muscle_during_strength_training_in_untrained_individuals/links/61df8b665c0a257a6fe48b2c/The-pre-exhaustion-method-does-not-increase-muscle-activity-in-target-muscle-during-strength-training-in-untrained-individuals.pdf" >
+      The pre-exhaustion method does not increase muscle activity in target muscle during strength training in untrained individuals.
+    </a>
+    </li>
+    <li>
      <a href="https://www.sciencedirect.com/science/article/pii/S0765159721001477?dgcid=coauthor" >
       Knee joint kinematics during the sidestep maneuver in professional futsal athletes: Effect of sport-specific sidestep cutting
     </a>
@@ -28,7 +38,7 @@ Also, I have knowledge in programming languages oriented to data acquisition, an
     </a>
     </li>
     <li> 
-     <a href="https://www.termedia.pl/Effects-of-match-location-quality-of-opposition-match-outcome-and-playing-position-on-load-parameters-and-players-prominence-during-official-matches-in-professional-soccer-players,129,42222,0,1.html" >
+     <a href="https://www.termedia.pl/Effects-of-match-location-quality-of-opposition-match-outcome-and-playing-position-on-load-parameters-and-players-prominence-during-       official-matches-in-professional-soccer-players,129,42222,0,1.html" >
       Effects of match location, quality of opposition, match outcome and playing position on load parameters and players? prominence during official matches in professional soccer players
     </a>
     </li>
