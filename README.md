@@ -10,7 +10,7 @@ Also, I have knowledge in programming languages oriented to data acquisition, an
 <br>
 
 
-<h2>Some academic articles that I have published (not all) 🏆</h2>
+<h2>Some academic articles that I have published (not all)🏆</h2>
 <ul>
     <li>
      <a href="https://www.nature.com/articles/s41598-022-05792-w" >
