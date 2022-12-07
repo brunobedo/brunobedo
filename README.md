@@ -3,15 +3,39 @@
     <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h2>
 
-I'm <b>Bruno Bedo</b> (@brunobedo).👋
-I have B.Sc. in Physical Education and Sport at the School of Physical Education and Sport of Ribeirão Preto, University of São Paulo, M.Sc (2016, Brazil) and Ph.D. (2021, Brazil). During the PhD degree, I worked as a researcher at Human Movement Biomechanics Laboratory at the University of Ottawa (2019, Canada). 
-My research was focused on sports biomechanics, human movement, motor control and data science applied to sports. 
-Also, I have knowledge in programming languages oriented to data acquisition, analysis and interpretation of sports data. Currently I am working as a Data Scientist at Grupo Globo, analyzing sports data, mainly related to the game fantasy Cartola FC.
+I'm <b>Bruno Bedo</b> (@brunobedo).👋 
+<br>
+Prof. Bruno received his B.Sc. in Physical Education and Sport at the School of Physical Education and Sport of Ribeirão Preto, University of São Paulo, M.Sci (2016, Brazil) and Ph.D. (2021, Brazil). In addition, he has worked as a researcher at the Human Movement Biomechanics Laboratory at the University of Ottawa. Furthermore, Prof. Bedo has a certification in Data Science and worked as a Data Scientist at Grupo Globo (Organizações Globo Participações S.A). Currently, Bruno has a position as a full-time professor (lecture and research) - (MS3-I) in the Department of Sports at the School of Physical Education and Sports ? University of São Paulo (São Paulo, Brazil). In addition, Bruno is a member, as a professor, at the Brazilian Society of Biomechanics. He is skilled in programming (Python, Matlab, and R), focusing on data acquisition and processing applied to sports performance analysis. His research is focused on Data Science Applied to Sports; Technology Applied to Sports; Performance Analysis, Biomechanics, and Motor Control Applied to Sports; Computational Methods for the Analysis of Human Movement.
 <br>
 
 
 <h2>Some academic articles that I have published (not all)🏆</h2>
 <ul>
+    <li>
+     <a href="https://www.nature.com/articles/s41598-022-05792-w" >
+     Effects of congested fixture and matches’ participation on internal and external workload indices in professional soccer players
+    </a>
+    </li>
+    <li>
+     <a href="https://www.mdpi.com/1424-8220/22/12/4435" >
+      Applying Different Strategies of Task Constraint Manipulation in Small-Sided and Conditioned Games: How Do They Impact Physical and Tactical Demands?
+    </a>
+    </li>
+    <li>
+     <a href="https://www.frontiersin.org/articles/10.3389/fspor.2022.966146/full" >
+      Contextual variables affect peak running performance in elite soccer players: A brief report
+    </a>
+    </li>
+    <li>
+     <a href="https://pubmed.ncbi.nlm.nih.gov/36104841/" >
+      Fatigue modifies hip and knee kinematics during single- and double-leg dynamic tasks: An investigation with female handball players
+    </a>
+    </li>
+    <li>
+     <a href="https://www.nature.com/articles/s41598-022-24277-4.pdf" >
+      Exercise alters the circadian rhythm of REV-ERB-α and downregulates autophagy-related genes in peripheral and central tissues
+    </a>
+    </li>
     <li>
      <a href="https://www.nature.com/articles/s41598-022-05792-w" >
       Effects of congested fixture and matches? participation on internal and external workload indices in professional soccer players.
