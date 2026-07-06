@@ -38,30 +38,27 @@ My work sits at the intersection of sports science and computation — I use Pyt
 
 ---
 
-## 🏆 Publications (not all)
+## 📚 Selected Publications (2024–Present)
 
-- [Effects of congested fixture and matches' participation on internal and external workload indices in professional soccer players](https://www.nature.com/articles/s41598-022-05792-w)
-- [Applying Different Strategies of Task Constraint Manipulation in Small-Sided and Conditioned Games](https://www.mdpi.com/1424-8220/22/12/4435)
-- [Contextual variables affect peak running performance in elite soccer players: A brief report](https://www.frontiersin.org/articles/10.3389/fspor.2022.966146/full)
-- [Fatigue modifies hip and knee kinematics during single- and double-leg dynamic tasks in female handball players](https://pubmed.ncbi.nlm.nih.gov/36104841/)
-- [Exercise alters the circadian rhythm of REV-ERB-α and downregulates autophagy-related genes in peripheral and central tissues](https://www.nature.com/articles/s41598-022-24277-4.pdf)
-- [The pre-exhaustion method does not increase muscle activity in target muscle during strength training in untrained individuals](https://www.researchgate.net/profile/Rafael-Fujita/publication/356187127_The_pre-exhaustion_method_does_not_increase_muscle_activity_in_target_muscle_during_strength_training_in_untrained_individuals)
-- [Knee joint kinematics during the sidestep maneuver in professional futsal athletes](https://www.sciencedirect.com/science/article/pii/S0765159721001477?dgcid=coauthor)
-- [Landing mechanics of basketball and volleyball athletes: a kinematic approach](https://www.termedia.pl/Landing-mechanics-of-basketball-and-volleyball-athletes-a-kinematic-approach,129,43427,0,1.html)
-- [BOPS: a Matlab toolbox to batch musculoskeletal data processing for OpenSim](https://www.tandfonline.com/doi/full/10.1080/10255842.2020.1867978)
-- [Effects of match location, quality of opposition, match outcome and playing position on load parameters in professional soccer players](https://www.termedia.pl/Effects-of-match-location-quality-of-opposition-match-outcome-and-playing-position-on-load-parameters-and-players-prominence-during-official-matches-in-professional-soccer-players,129,42222,0,1.html)
-- [Pre- and postoperative in silico biomechanics in individuals with cam morphology during stair tasks](https://www.sciencedirect.com/science/article/pii/S0268003321001170?via%3Dihub)
-- [The rapid recovery of vertical force propulsion production and postural sway after a specific fatigue protocol in female handball athletes](https://www.sciencedirect.com/science/article/pii/S0966636220300436?via%3Dihub)
-- [Technical skill, not athleticism, predicts an individual's ability to maintain possession in small-sided soccer games](https://www.tandfonline.com/doi/full/10.1080/24733938.2020.1780468)
-- [A custom musculoskeletal model for estimation of medial and lateral tibiofemoral contact forces during high knee and hip flexion tasks](https://www.tandfonline.com/doi/full/10.1080/10255842.2020.1757662)
-- [Organisation of instep kicking in young U11 to U20 soccer players](https://www.tandfonline.com/doi/full/10.1080/24733938.2020.1807043)
-- [Additional haptic information provided by anchors reduces postural sway in young adults less than does light touch](https://www.frontiersin.org/articles/10.3389/fnins.2018.00346/full)
-- [Effects of match situational variables on possession: the case of the England Premier League season 2015/16](https://www.scielo.br/j/motriz/a/5NZfmBGNnRMCDRhv4Kgn4HQ/?lang=en)
-- [Lactacidemic variation and movement patterns during anaerobic power test](https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2018N05A0576)
-- [Team dynamics, running, and skill-related performances of Brazilian U11 to professional soccer players during official matches](https://journals.lww.com/nsca-jscr/Abstract/2019/08000/Team_Dynamics,_Running,_and_Skill_Related.19.aspx)
-- [Validity and reliability of a 6-a-side small-sided game as an indicator of match-related physical performance in elite youth Brazilian soccer players](https://www.tandfonline.com/doi/full/10.1080/02640414.2019.1608895)
-- [Mind-muscle connection: limited effect of verbal instructions on muscle activity in a seated row exercise](https://journals.sagepub.com/doi/10.1177/0031512520926369)
-- [Influence of side uncertainty on knee kinematics during sidestep cutting maneuvers of female handball athletes](https://journals.humankinetics.com/view/journals/jab/37/3/article-p188.xml)
+### ⚽ Sports Analytics & Performance Analysis
+- **2026** — [DataGoal: A MATLAB toolbox for linear and non-linear soccer positional data analysis](https://doi.org/10.1177/17543371261455525)
+- **2026** — [The momentary result of the match and the current advantage change a football team's space occupation and match running performance](https://doi.org/10.6018/cpd.646211)
+- **2025** — [Effect of Video Assistant Referee (VAR) system on match statistics: A nine-year retrospective analysis of the Brazilian national league](https://doi.org/10.1177/17479541251334533)
+- **2025** — [Influence of manipulating pitch size and game format in small-sided soccer games on tactical creativity and exploratory behavior of young players](https://doi.org/10.1016/j.tsc.2024.101690)
+- **2025** — [Youth soccer team's match dynamics with and without the ball when winning and losing](https://doi.org/10.1080/24748668.2024.2419759)
+- **2024** — [The impact of different game formats on players’ and team running, technical–tactical performance, and spatial occupation in youth soccer](https://doi.org/10.1177/17479541241252946)
+- **2024** — [Impact of implicit vs. explicit instructions on tactical performance and behavior in U-20 national-level soccer players](https://doi.org/10.3389/fspor.2024.1441125)
+- **2024** — [The effects of time pressure and numerical unbalance on football players’ interpersonal coordination and movement uncertainty](https://doi.org/10.1080/24748668.2024.2408975)
+- **2024** — [Quantifying within-match tactical behaviors using positional data and notational analysis in soccer](https://doi.org/10.26582/k.56.1.6)
+
+### 🦵 Biomechanics, Computer Vision & Human Movement
+- **2026** — [Preliminary analysis of markerless three-dimensional trajectory reconstruction during the futsal instep kicking using Sports2D](https://doi.org/10.1080/14763141.2026.2680520)
+- **2026** — [Markerless Pixel-Based Pipeline for Quantifying 2D Lower Limb Kinematics During Squatting: A Preliminary Validation Study](https://doi.org/10.3390/biomechanics6010001)
+- **2026** — [Kinematic analysis of road running under motor and cognitive dual-task conditions in young, middle-aged and older experienced and trained runners](https://doi.org/10.1080/14763141.2026.2671897)
+- **2026** — [Younger and Older Adults’ Frontal Plane Balance Control and Coordination in the Hole-Stepping Task While Walking](https://doi.org/10.1080/02703181.2026.2618236)
+- **2025** — [Predicting walkway spatiotemporal parameters using a markerless, pixel-based machine learning approach](https://doi.org/10.20338/bjmb.v19i1.462)
+- **2025** — [Fatigue-induced modifications to trunk and lower-limb coordination during drop vertical jump and sidestep cutting tasks in female handball athletes](https://doi.org/10.1016/j.gaitpost.2024.12.004)
+- **2024** — [Effect of fatigue on knee biomechanics during the sidestep cutting maneuver](https://doi.org/10.1080/02640414.2024.2386206)
 
 <details>
 <summary>📄 View full publication list</summary>
